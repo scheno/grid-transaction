@@ -1,2 +1,2 @@
-# grid-transaction
-网格交易软件
+# Grid Transaction
+网格交易
